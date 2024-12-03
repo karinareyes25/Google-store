@@ -64,3 +64,15 @@ cursor: pointer;
     cursor: pointer;
     vertical-align: middle;
 }
+.product {
+    display: flex;
+    padding: 20px;
+}
+.product-image {
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto 20px;
+    position: relative;
+    top: 200px;
+    left: 20px;
+}
