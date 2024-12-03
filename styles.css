@@ -29,16 +29,17 @@
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 10px 20px;
+    padding-left: 20px;
     height: 40px;
     background: white;
     border-bottom: 2px solid #ddd;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
 } 
-.logo {
-    align-self: auto;
+.header-logo img{
+    align-self: center;
     height: 30px;
 }
+
 .header-menu a{
     margin: 0 10px;
     text-decoration: none;
