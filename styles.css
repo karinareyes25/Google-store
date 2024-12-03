@@ -26,6 +26,7 @@ a {
     padding: 10px 20px;
     background: white;
     border-bottom: 2px solid #ddd;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
 } 
 .logo {
     align-self: auto;
