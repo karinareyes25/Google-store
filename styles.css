@@ -21,8 +21,8 @@
     border-bottom: 2px solid #ddd;
 } 
 .logo {
-    width: 30px;
-    height: auto;
+    align-self: auto;
+    height: 30px;
 }
 .header-menu a{
     margin: 0 10px;
