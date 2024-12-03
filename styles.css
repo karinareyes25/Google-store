@@ -1,3 +1,10 @@
+* {
+    font-family: 'Inter';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 @font-face {
     font-family: 'Inter';
     src: url('./font/Inter_18pt-Regular.ttf') format('truetype');
@@ -5,15 +12,6 @@
     font-style: normal;
 }
 
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body {
-    font-family: 'Inter';
-}
 .header {
     display: flex;
     justify-content: space-between;
