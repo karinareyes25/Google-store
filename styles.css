@@ -12,6 +12,13 @@
     font-style: normal;
 }
 
+a {
+    cursor: pointer;
+    font-size: 12px;
+    text-decoration: none;
+    color: #57626B;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
