@@ -13,19 +13,22 @@
 }
 
 
-.header-menu {
-    cursor: pointer;
-    font-size: 12px;
-    text-decoration: none;
-    color: #57626B;
+.header-menu ul {
+    list-style: none;
+    position: absolute;
+    left: 60px;
 }
 
+.header-menu ul li{
+    display: inline-flex;
+    line-height: 20px;
+    text-align: left;
+}
 
 
 .header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 10px 20px;
     height: 40px;
     background: white;
@@ -39,7 +42,8 @@
 .header-menu a{
     margin: 0 10px;
     text-decoration: none;
-    color: #333;
+    color: #57626B;
+    font-size: 12px;
     font-weight: 500;
 }
 .header-menu a:hover{
