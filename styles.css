@@ -12,6 +12,13 @@
     font-style: normal;
 }
 
+a {
+    cursor: pointer;
+    font-size: 12px;
+    text-decoration: none;
+    color: #57626B;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -19,16 +26,20 @@
     padding: 10px 20px;
     background: white;
     border-bottom: 2px solid #ddd;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
 } 
 .logo {
-    width: 60px;
-    height: auto;
+    align-self: auto;
+    height: 30px;
 }
 .header-menu a{
     margin: 0 10px;
     text-decoration: none;
     color: #333;
     font-weight: 500;
+}
+.header-menu a:hover{
+    color: #1a73e8;
 }
 
 .icons-menu {
@@ -38,8 +49,8 @@ cursor: pointer;
 
 }
 .icon {
-    width: 24px;
-    height: 24px;
+    width: 20px;
+    height: 20px;
     margin: 0 8px;
     cursor: pointer;
     vertical-align: middle;
