@@ -37,6 +37,9 @@ a {
     color: #333;
     font-weight: 500;
 }
+.header-menu a:hover{
+    color: #1a73e8;
+}
 
 .icons-menu {
 margin: 0 5px;
