@@ -56,9 +56,32 @@ line-height: 35px;
     cursor: pointer;
     vertical-align: middle;
 }
+<<<<<<< HEAD
 
 .img-article-main{
     width: 100%;
     height: 100%;
     position: absolute;
 }
+=======
+aside{
+    text-align: right;
+    padding-right: 10%;
+}
+h1{
+    font-size: 42px;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+h2{  
+  font-size: 20px;
+  padding-bottom: 3%;
+}
+p{
+    font-size: 12px;
+  padding-bottom: 5%;
+}
+
+    
+    
+>>>>>>> 3e57156ba83269f5294fb395ea320d5756ee6935
