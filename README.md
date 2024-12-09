@@ -44,6 +44,9 @@ Repositorio https://github.com/karinareyes25/Google-store/tree/dev
 
 Lenguajes: HTML5, index.html y CSS3, styles.css 
 
+Estructura de html: 
+https://www.canva.com/design/DAGYzlRSZKg/69Fe8OGqDTGqYpyptB6-5Q/edit?utm_content=DAGYzlRSZKg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Anexos: Tipografía Google font; src: imágenes utilizadas y mockups 
 
 * Jira: para organizar y optimizar el trabajo 
