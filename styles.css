@@ -187,10 +187,10 @@ a {
 }
 
 .product-info .price {
-      font-size: 1rem;
-      font-weight: bold;
-      margin: 10px 0 10px 0;
-      color: #353A49;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+    color: #353A49;
 }
 
 .product-info .category  {
@@ -226,11 +226,11 @@ a {
 }
 
 .color.blue { background: #C8DBFF;margin-left: 0; }
-.color.light-blue { background: #E5E5E5; }
+.color.white { background: #E5E5E5; }
 .color.black { background: #333333; }
-.color.green { background: #d8e1e8; }
-.color.orange { background: #FFFFE0; }
-.color.gris-oscuro { background: #d6915c; }
+.color.grey { background: #d8e1e8; }
+.color.yellow { background: #FFFFE0; }
+.color.orange { background: #d6915c; }
 
 .purchase {
     margin-top: 2rem;
@@ -363,60 +363,6 @@ a {
     font-size: 8px;
     color: #57626B;
 }
-
-@media (max-width: 768px) {
-  body {
-      font-size: 14px; /* Reduce el tamaño base de la fuente */
-  }
-
-  .header {
-      flex-direction: column; /* Cambia la dirección de los elementos a vertical */
-      align-items: flex-start; /* Alinea elementos a la izquierda */
-      padding: 10px; /* Reduce el espacio del encabezado */
-  }
-
-  .header-menu {
-      display: none; /* Oculta el menú para simplificar el diseño */
-  }
-
-  .header-icons {
-      justify-content: flex-start; /* Alinea los íconos al principio */
-  }
-
-  .main-content {
-      padding: 10px; /* Reduce el espacio alrededor del contenido principal */
-  }
-
-  .product-details h1 {
-      font-size: 18px; /* Reduce el tamaño del título */
-  }
-
-  .product-details p {
-      font-size: 14px; /* Reduce el tamaño de los párrafos */
-  }
-
-  .product-details .price {
-      font-size: 18px; /* Reduce el tamaño del precio */
-  }
-
-  .product-image {
-      width: 100%; /* La imagen ocupa todo el ancho disponible */
-      max-width: 300px; /* Limita el ancho máximo */
-      margin: 0 auto; /* Centra la imagen */
-  }
-
-  .color-options {
-      display: flex; /* Usa flexbox para organizar los colores */
-      justify-content: center; /* Centra las opciones de color */
-      gap: 5px; /* Espacio entre los colores */
-  }
-
-  .add-to-cart {
-      width: 100%; /* Botón ocupa todo el ancho */
-      font-size: 16px; /* Aumenta el tamaño del texto para usabilidad */
-  }
-}
-
 
 
  
