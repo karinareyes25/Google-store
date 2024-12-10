@@ -8,7 +8,7 @@ Estado: En proceso
 
 Integrantes:  
 
-Eva Maria Gómez Muñoz/ Srum Master 
+Eva Maria Gómez Muñoz/ Time Keeper 
 
 Karina Lorenzo Rodríguez/ Product Owner- Developer 
 
